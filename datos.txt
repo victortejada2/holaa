@@ -1,0 +1,2 @@
+archivo
+Usuario=vt295
